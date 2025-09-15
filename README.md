@@ -10,8 +10,11 @@ Repository Includes:
 Features
 
 • Multiple branching storylines with psychological horror themes
+
 • Main narrative set in U.S. National Parks
+
 • Modular code structure for extending or modding
+
 • Single-player experience with potential for expansion
 
 
@@ -19,9 +22,13 @@ Tech Stack
 
 • Unreal Engine 5.6 (C++ & Blueprints)
 • Custom narrative system
+
 • Modular gameplay framework
+
 • Narrative framework for branching storylines
+
 • Environmental systems for survival and exploration
+
 • Documentation for extending or modding
 
 
