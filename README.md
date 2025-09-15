@@ -33,5 +33,5 @@ This project is licensed under the **ForgottenMask Game License (All Rights Rese
 - ❌ Selling or redistributing the **base game or source code** is prohibited.  
 - ⚖️ Modders may sell their mods under their own license, provided they clearly state they are independent works.  
 
-For full terms, see the [LICENSE](./LICENSE) file.
+For full terms, see the [LICENSE](./License) file.
 
