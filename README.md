@@ -5,7 +5,6 @@ Each story in Umbrafex dives into a different layer of fear—survival against t
 Umbrafex is a horror game featuring multiple branching storylines that blend psychological tension, folklore, and survival elements. The main narrative unfolds in the eerie wilderness of National Parks, where ancient forces and human cruelty blur the line between myth and reality.
 
 ## Features
-
 - Multiple branching storylines with psychological horror themes
 - Main narrative set in U.S. National Parks
 - Modular code structure for extending or modding
@@ -13,8 +12,11 @@ Umbrafex is a horror game featuring multiple branching storylines that blend psy
 
 
 ## Tech Stack
-
 - Unreal Engine 5.6 (C++ & Blueprints)
+- Blender (3D modeling & animation)  
+- GitHub (version control & collaboration)
+
+## For Modders 
 - Custom narrative system
 - Modular gameplay framework
 - Narrative framework for branching storylines
